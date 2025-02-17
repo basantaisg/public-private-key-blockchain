@@ -1,0 +1,28 @@
+{
+  "name": "pubckeys",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000p\u0000u\u0000b\u0000l\u0000i\u0000c\u0000-\u0000p\u0000r\u0000i\u0000v\u0000a\u0000t\u0000e\u0000-\u0000k\u0000e\u0000y\u0000-\u0000b\u0000l\u0000o\u0000c\u0000k\u0000c\u0000h\u0000a\u0000i\u0000n\u0000\r\u0000 \u0000",
+  "homepage": "https://github.com/basantaisg/public-private-key-blockchain#readme",
+  "bugs": {
+    "url": "https://github.com/basantaisg/public-private-key-blockchain/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basantaisg/public-private-key-blockchain.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@noble/ed25519": "^2.2.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
